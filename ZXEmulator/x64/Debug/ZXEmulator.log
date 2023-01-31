@@ -1,0 +1,8 @@
+﻿  Renderer.cpp
+D:\CSC8502\Coursework\CSC8502 2022\NCLGL\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\CSC8502\Coursework\CSC8502 2022\ZXEmulator\Renderer.cpp(86,77): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\CSC8502\Coursework\CSC8502 2022\ZXEmulator\Renderer.cpp(86,70): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  ZXEmulator.cpp
+D:\CSC8502\Coursework\CSC8502 2022\NCLGL\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  ZXEmulator.vcxproj -> D:\CSC8502\Coursework\CSC8502 2022\x64\Debug\ZXEmulator.exe

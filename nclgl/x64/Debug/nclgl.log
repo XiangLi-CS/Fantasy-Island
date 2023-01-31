@@ -1,0 +1,8 @@
+﻿  CubeRobot.cpp
+D:\CSC8502\Coursework\CSC8502 2022\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Frustum.cpp
+D:\CSC8502\Coursework\CSC8502 2022\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  SceneNode.cpp
+D:\CSC8502\Coursework\CSC8502 2022\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  nclgl.vcxproj -> D:\CSC8502\Coursework\CSC8502 2022\x64\Debug\nclgl.lib
